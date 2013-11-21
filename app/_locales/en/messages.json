@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "coursera-downloader",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Download Coursera lectures/slides in a batch",
+    "description": "The description of the application"
+  }
+}
